@@ -9,3 +9,10 @@ This template offers a minimal configuration to quickly get React running with V
 
 2. **[@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)**  
    Uses [SWC](https://swc.rs/) for Fast Refresh.
+
+### Run the Development Server
+
+To start the development server, run the following command:
+
+```bash
+npm run dev
